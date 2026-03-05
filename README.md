@@ -69,6 +69,9 @@ A UI clone focusing on layout and responsive design.
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zaara0511&theme=algolia&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 # 🐍 Contribution Snake
 
 <p align="center">
