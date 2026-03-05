@@ -1,10 +1,5 @@
-# 👋 Hello World, I'm Zaara!
 
-💻 Computer Science Engineering Student  
-🌐 Web Developer  
-📍 Vadodara, India  
 
----
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4D0148&height=220&section=header&text=Zaara%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
