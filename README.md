@@ -71,15 +71,14 @@ A UI clone focusing on layout and responsive design.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Zaara0511&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Zaara0511&theme=radical&no-frame=true&margin-w=15">
 </p>
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/Zaara0511/Zaara0511/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Zaara0511/Zaara0511/main/github-contribution-grid-snake.svg">
 </p>
-
 ---
 
 # 📫 Connect With Me
