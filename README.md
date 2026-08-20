@@ -185,8 +185,6 @@ A Netflix-inspired frontend project focused on **responsive UI, layouts and fron
   <img src="https://raw.githubusercontent.com/Zaara0511/Zaara0511/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
----
-
 ## 🌱 Currently Learning
 
 <p align="center">
